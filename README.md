@@ -1,8 +1,28 @@
-# React + Vite
+# **Mind Map Generator 🧠🔗**  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Mind Map Generator](./assets/Screenshot 2025-04-01 110848.png)  
+![Mind Map Generator](./assets/Screenshot 2025-04-01 110923.png)  
+*(Replace with the actual path to your image or use an online image URL.)*  
 
-Currently, two official plugins are available:
+## **📌 Project Overview**  
+The **Mind Map Generator** is an **AI-powered** tool built with **ReactJS** that allows users to generate interactive **mind maps** by entering a simple prompt. It utilizes the **Gemini API** to analyze input and dynamically create a structured **node-based visualization** using **React Flow**.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **🚀 Features**  
+✅ **AI-Powered Generation** – Uses **Gemini API** to analyze prompts and generate structured data.  
+✅ **Interactive Mind Maps** – Built with **React Flow** for smooth user interaction.   
+✅ **Real-Time Rendering** – Instant visualization based on user input.  
+✅ **Responsive UI** – Works seamlessly across all devices.  
+
+## **🛠 Tech Stack**  
+- **Frontend:** ReactJS, React Flow, CSS  
+- **AI Integration:** Gemini API  
+
+## **📦 Installation & Setup**  
+
+### **1️⃣ Clone the Repository**  
+```sh
+git clone https://github.com/yourusername/mind-map-generator.git
+cd mind-map-generator
+npm install
+npm run dev
+```
