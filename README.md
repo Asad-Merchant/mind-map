@@ -1,7 +1,7 @@
 # **Mind Map Generator 🧠🔗**  
 
-![Mind Map Generator](./src/assets/Screenshot 2025-04-01 110848.png)  
-![Mind Map Generator](./src/assets/Screenshot 2025-04-01 110923.png)  
+![Mind Map Generator](https://github.com/Asad-Merchant/mind-map/blob/main/src/assets/Screenshot%202025-04-01%20110848.png)  
+![Mind Map Generator](https://github.com/Asad-Merchant/mind-map/blob/main/src/assets/Screenshot%202025-04-01%20110923.png)  
 
 ## **📌 Project Overview**  
 The **Mind Map Generator** is an **AI-powered** tool built with **ReactJS** that allows users to generate interactive **mind maps** by entering a simple prompt. It utilizes the **Gemini API** to analyze input and dynamically create a structured **node-based visualization** using **React Flow**.  
