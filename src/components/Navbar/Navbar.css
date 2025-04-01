@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    background-color: #f0f8ff;
+    width: 100%;
+}
+
+.navbar img{
+    width: 70px;
+}
+
+.navbar h2{
+    font-size: 30px;
+    color: #0077b3;
+    font-weight: 700;
+}
+
+
