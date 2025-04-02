@@ -7,7 +7,6 @@ import './Hero.css'
 
 
 const Hero = ({setData}) => {
-// AIzaSyDUXlLXgIWd_r-IXBRHmPEyut0IEdp6pa0
     const [userInput, setUserInput] = useState("")
     const [loading, setLoading] = useState(false)
     // console.log(userInput)
